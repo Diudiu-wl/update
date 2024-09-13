@@ -1,0 +1,29 @@
+.about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .about-image {
+    width: 150px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  .back-button {
+    background-color: #00a1d6;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 20px;
+  }
+  
+  .back-button:hover {
+    background-color: #63bad6;
+  }
+  
